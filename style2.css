@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(95, 131, 65);
+}
+
+li {
+    padding-left: 30px;
+
+}
+
+.menu a:hover{
+    color: #ff0000;
+
+}
+
+.h1_menu {
+    margin-right: 1000px;
+    margin-left: -9;
+}
+.menu{
+    display: flex;
+    margin-left: 150px;
+} 
+ 
+.text1{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(30, 126, 211);
+}
+
+.photoAZ{
+    border-radius: 30px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.text2{
+    margin-left: 900px;
+    margin-top: -400px;
+}
+
+.sloj{
+    color: red;
+}
+
+.AZ{
+    color: rgb(235, 165, 80);
+    margin-left: 900px;
+}
+
+.text3{
+    margin-left: 900px;
+    font-size: 27px;
+}
+
+
+.photousa{
+    border-radius: 30px;
+    margin-top: 300px;
+    margin-left: 200px;
+}
+
+.r1234{
+    margin-left: 900px;
+    margin-top: 20px;
+}
+
+.r1234 button{ 
+    width: 350px;
+    border: none;
+    background-color: rgb(234, 0, 255);
+    height: 40px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+
+.foooter {
+    height: 300px;
+    background-color: rgb(26, 27, 27);
+    margin-top: 400px;
+}
+
+.tel{
+    color: red;
+    padding-top: 90px;
+}
+
+.foooter li, a {
+    color: #179464;
+}

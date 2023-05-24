@@ -1,0 +1,355 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    padding-left: 30px;
+
+}
+
+.menu a:hover{
+    color: #ff0000;
+
+}
+
+.h1_menu {
+    margin-right: 1000px;
+    margin-left: -9;
+}
+.menu{
+    display: flex;
+    margin-left: 150px;
+} 
+ 
+/* a:hover {
+    color: rgb(48, 119, 185);
+} */
+
+.img_fon {
+    margin-left: 250px;
+    margin-top: 150px;
+    border-radius: 40px;
+}
+
+.logo{
+    position: absolute;
+    margin-left: -1550px;
+    margin-top: -50px;
+}
+.button {
+
+    position: absolute;
+    border: 1px solid rgb(255, 255, 255);
+    margin-top: -595px;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    margin-left: 250px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+
+}
+
+.button1 {
+    position: absolute;
+    border: 1px solid rgb(255, 255, 255);
+    margin-top: -595px;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 1469px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+
+}
+.strela {
+    margin-top: 20px;
+    font-size: 28px;
+}
+
+.text11{
+    position: absolute;
+    color: rgb(119, 89, 89);
+    top: 250px;
+    left: 680px;
+    font-size: 20px;
+}
+
+.text4{
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+.photo2 img{
+    
+  
+    border-radius: 20px;
+}
+.polosa2 {
+    margin-top: 20px;
+    padding-left: 190px;
+}
+
+.booking {
+    border-bottom: 3px solid #179464;
+    margin-bottom: 20px;
+    width: 1400px;
+    margin-left: 220px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.booking1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text3 {
+    width: 800px;
+    height: 230px;
+    border: 3px solid #758edf;
+    box-shadow: 0 0 14px 0;
+    border-radius: 30px;
+    padding-bottom: 20px;
+}
+
+.text3 p{
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 25px;
+}
+.text12{
+    padding-left: 90px;
+    font-size: 40px;
+    color: rgb(167, 17, 69);
+}
+.text13{
+    font-size: 25px;
+    padding-left: 80px;
+}  
+
+.text14{
+    margin-top: -110px;
+    margin-left: 1500px;
+    font-size: 40px;
+    color: rgb(167, 17, 69);
+}
+.text15{
+    font-size: 25px;
+    padding-top: 10px;
+    margin-left: 1350px;
+}
+
+.text16{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(167, 17, 69);
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    background-color: aqua;
+}
+
+.photo3{
+    margin-top: -80px;
+    margin-left: 550px;
+    border-radius: 30px
+}
+
+.logo2{
+    margin-left: 20px;
+}
+
+.text17{
+    padding-left: 200px;
+    margin-top: -50px;
+    font-size: 20px;
+}
+.polosa2{
+    margin-right: 90px;
+}
+
+.PHOTO8 {
+    height: 1000px;
+    background: url(../img/qd2l3cwepgk.jpg);
+    background-size: cover;
+}
+
+.aboba{
+    text-align: center;
+
+}
+/* .aboba1 input{
+    width: 340px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px
+} */
+/* .aboba2 h1{
+    text-align: center;
+    margin-left: -200px;
+    font-size: 20px;
+} */
+/* .aboba3 h1{
+    text-align: center;
+    margin-left: -200px;
+    font-size: 20px;
+} */
+
+.button2 {
+    text-align: center;
+}
+
+.button2 button{ 
+    width: 350px;
+    border: none;
+    background-color: greenyellow;
+    height: 40px;
+    margin-top: 30px;
+}
+.aboba1{
+    text-align: center;
+
+}
+
+.aboba1 input{
+    width: 340px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px
+}
+
+.aboba2{
+    text-align: center;
+
+}
+.aboba2 input{
+    width: 340px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px
+}
+.aboba3{
+    text-align: center;
+
+}
+.aboba3 input{
+    width: 340px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px
+}
+.aboba4{
+    text-align: center;
+
+}
+.aboba4 input{
+    width: 340px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px
+}
+.text18{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    margin-top: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: rgb(96, 128, 128);
+}
+
+.photo4{
+    margin-left: 200px;
+    margin-top: 100px;
+    border-radius: 30px;
+}
+
+.text19{
+    margin-top: -300px;
+    margin-left: 650px;
+    font-size: 50px;
+    color: #179464;
+    margin-bottom: 150px;
+}
+
+.text20{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    margin-top: 100px;
+    padding-top: 0px;
+    padding-bottom: 30 px;
+    background-color: rgb(96, 128, 128);
+    margin-bottom: 100px;
+}
+
+.photo99{
+    height: 1000px;
+    background: url(../img/1477469619_zakat.jpg);
+    background-size: cover;
+}
+
+.text21{
+    color: rgb(255, 255, 255);
+    margin-top: -800px;
+    margin-left: 600px;
+    font-size: 60px;
+}
+
+
+
+.aboba99{
+    text-align: center;
+
+}
+.aboba99 input{
+    width: 340px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px
+}
+
+
+
+
+.foooter {
+    height: 300px;
+    background-color: rgb(26, 27, 27);
+    margin-top: 400px;
+}
+
+.tel{
+    color: red;
+    padding-top: 90px;
+}
+
+.foooter li, a {
+    color: #179464;
+}
+
+
